@@ -1,0 +1,21 @@
+{
+  "name": "final-api",
+  "version": "1.0.0",
+  "description": "API dllo web",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {},
+  "author": "saurrego",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "pg": "^7.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
